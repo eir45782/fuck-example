@@ -12,7 +12,7 @@ int main( ){
   if((fp = fopen("test.txt","r"))== NULL)
   {			
          printf("open file fuck\n");
-         system("PAUSE MMA UAAA");
+         system("PAUSE MMA UAA");
          exit(0);
   }
 
